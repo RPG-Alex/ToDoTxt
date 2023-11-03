@@ -1,0 +1,3 @@
+This task will be deleted when clicked 
+So will this one
+This one too!
